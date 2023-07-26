@@ -6,12 +6,12 @@
     <description>Recent content in Tags on longie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://longieee.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://longieee.web.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://longieee.web.app/tags/blog/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://longieee.web.app/tags/blog/</guid>
       <description></description>
@@ -19,11 +19,11 @@
     </item>
     
     <item>
-      <title>linh tinh</title>
-      <link>https://longieee.web.app/tags/linh-tinh/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <title>kendo</title>
+      <link>https://longieee.web.app/tags/kendo/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://longieee.web.app/tags/linh-tinh/</guid>
+      <guid>https://longieee.web.app/tags/kendo/</guid>
       <description></description>
       
     </item>
@@ -31,9 +31,59 @@
     <item>
       <title>tôi</title>
       <link>https://longieee.web.app/tags/t%C3%B4i/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://longieee.web.app/tags/t%C3%B4i/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>nhật ký</title>
+      <link>https://longieee.web.app/tags/nh%E1%BA%ADt-k%C3%BD/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://longieee.web.app/tags/nh%E1%BA%ADt-k%C3%BD/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>linh tinh</title>
+      <link>https://longieee.web.app/tags/linh-tinh/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://longieee.web.app/tags/linh-tinh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>dịch</title>
+      <link>https://longieee.web.app/tags/d%E1%BB%8Bch/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://longieee.web.app/tags/d%E1%BB%8Bch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>thơ</title>
+      <link>https://longieee.web.app/tags/th%C6%A1/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://longieee.web.app/tags/th%C6%A1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>truyện</title>
+      <link>https://longieee.web.app/tags/truy%E1%BB%87n/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://longieee.web.app/tags/truy%E1%BB%87n/</guid>
       <description></description>
       
     </item>

@@ -29,7 +29,7 @@ layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill
 
 [footer]
 showMenu = true
-showCopyright = true
+showCopyright = false
 showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
@@ -39,8 +39,8 @@ layout = "background"                # valid options: page, profile, hero, card,
 homepageImage = "img/background.jpg" # used in: hero, and card
 showRecent = true
 showRecentItems = 5
-showMoreLink = false
-showMoreLinkDest = "/posts"
+showMoreLink = true
+showMoreLinkDest = "/blog"
 cardView = true
 cardViewScreenWidth = true
 layoutBackgroundBlur = false         # only used when layout equals background
@@ -72,7 +72,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
 showSummary = true
-showComments = true
+showComments = false
 sharingLinks = [
     # "linkedin",
     "twitter",

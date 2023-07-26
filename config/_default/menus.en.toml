@@ -15,6 +15,11 @@ name = "Blog"
 pageRef = "blog"
 weight = 10
 
+[[main]]
+name = "Kendo"
+pageRef = "kendo"
+weight = 20
+
 # [[main]]
 # name = "Parent"
 # weight = 20
@@ -65,12 +70,12 @@ weight = 100
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-name = "Tags"
-pageRef = "tags"
-weight = 10
+# [[footer]]
+# name = "Tags"
+# pageRef = "tags"
+# weight = 10
 
-[[footer]]
-name = "Categories"
-pageRef = "categories"
-weight = 20
+# [[footer]]
+# name = "Categories"
+# pageRef = "categories"
+# weight = 20

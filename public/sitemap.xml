@@ -6,7 +6,7 @@
   
     
       <url>
-            <loc>/blog/</loc>
+            <loc>https://longieee.web.app/blog/</loc>
             <lastmod>2023-02-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -17,7 +17,7 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://longieee.web.app/</loc>
             <lastmod>2023-02-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -28,7 +28,7 @@
   
     
       <url>
-            <loc>/blog/tai-sao-blog-nay-lai-co-tren-doi/</loc>
+            <loc>https://longieee.web.app/blog/tai-sao-blog-nay-lai-co-tren-doi/</loc>
             <lastmod>2023-02-02T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

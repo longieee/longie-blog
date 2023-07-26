@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on longie&#39;s Blog</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in blog on longie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tại sao blog này lại có trên đời</title>
+      <link>/blog/tai-sao-blog-nay-lai-co-tren-doi/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tai-sao-blog-nay-lai-co-tren-doi/</guid>
+      <description>Tôi đã từng có 3 cái thứ-gì-đó-gần-như-là-sự-hình-thành-của-một-cái-blog. Phải chăng lần này sẽ khác được?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/blog/tai-sao-blog-nay-lai-co-tren-doi/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

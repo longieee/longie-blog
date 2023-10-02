@@ -9,6 +9,7 @@ tags:
 Cuốn sách duy nhất mà trước đây tôi có đọc của Hermann Hesse là Siddhartha chỉ bởi vì danh tiếng của dịch giả sang tiếng Việt của cuốn sách này và một lý do nào đó liên quan tới Phật giáo mà tôi đã quên từ lâu lắm rồi....
 
 ...cho đến khi tôi được giới thiệu tới tác giả này một cách chính thức hơn với chất văn học và triết học trong các tác phẩm của ông (cộng thêm giải Nobel văn học)
+
 Và tôi đọc Steppenwolf.
 
 Có lẽ cảm giác đầu tiên tôi có được trên hành trình đi qua cuốn sách là nhân vật chính giống mình quá, hoặc ít nhất là giống hệt như một phần trong con người mình: một phần cô độc, cảm thấy mình quá khác biệt với xã hội mà luôn muốn tách khỏi nó; một phần luôn mâu thuẫn với phần còn lại của mình và biến tôi trở thành nghịch lý của chính bản thân mình, thành một mớ bòng bong cứ tự xoắn vào để thắt chặt chính bản thân nó mãi.

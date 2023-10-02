@@ -1,8 +1,11 @@
 ---
-title: "Nhật kí một buổi sáng của người vừa mới chào đời"
+title: Nhật kí một buổi sáng của người vừa mới chào đời
 date: 2023-02-04
-description: "Vừa mới chào đời thì nhật kí cái quái gì?"
-tags: ["blog", "linh tinh", "truyện"]
+description: Vừa mới chào đời thì nhật kí cái quái gì?
+tags:
+  - blog
+  - truyện
+  - linh-tinh
 ---
 Hắn đột nhiên chồm dậy. Không chuông báo thức. Không phải ai gọi. Không phải quen giấc. Không gì cả.
 

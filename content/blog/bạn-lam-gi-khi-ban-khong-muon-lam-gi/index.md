@@ -2,7 +2,10 @@
 title: Bạn làm gì khi bạn không muốn làm gì
 date: 2023-07-02
 summary: Bạn chờ và bạn nghe
-tags: [blog, tôi, linh tinh ]
+tags:
+  - blog
+  - tôi
+  - linh-tinh
 ---
 Bạn không muốn làm gì.
 

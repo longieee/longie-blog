@@ -1,9 +1,11 @@
 ---
-title: "Tại sao blog này lại có trên đời"
+title: Tại sao blog này lại có trên đời
 date: 2023-02-02
-# description: "Welcome to my blog!"
-summary: "Tôi đã từng có 3 cái thứ-gì-đó-gần-như-là-sự-hình-thành-của-một-cái-blog. Phải chăng lần này sẽ khác được?"
-tags: ["blog", "linh tinh", "tôi"]
+summary: Tôi đã từng có 3 cái thứ-gì-đó-gần-như-là-sự-hình-thành-của-một-cái-blog. Phải chăng lần này sẽ khác được?
+tags:
+  - blog
+  - tôi
+  - linh-tinh
 ---
 Tôi đã từng có 3 cái thứ-gì-đó-gần-như-là-sự-hình-thành-của-một-cái-blog, và tất cả đều có lời giới thiệu được bắt đầu như thế này
 

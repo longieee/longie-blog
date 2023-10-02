@@ -1,8 +1,11 @@
 ---
-title: "Cô gái phía bên kia"
+title: Cô gái phía bên kia
 date: 2023-02-12
-description: "Một cái lưu niệm nhỏ sau workshop học viết văn"
-tags: ["blog", "linh tinh", "thơ"]
+description: Một cái lưu niệm nhỏ sau workshop học viết văn
+tags:
+  - blog
+  - thơ
+  - linh-tinh
 ---
 
 ---

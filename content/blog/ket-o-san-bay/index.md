@@ -9,6 +9,7 @@ tags:
   - lịch
 ---
 2023-05-29
+
 Sân bay Suvarnabhumi
 ***
 Bằng một cách nào đó thì tôi vẫn luôn biết rằng ngày này sẽ tới, với cái kiểu dửng dưng thờ ơ với giờ bay và nghĩ rằng mọi chuyện rồi sẽ ổn. Lần này thì hoàn cảnh có thay đổi đáng kể so với những gì tôi thường đặt mình vào trước mỗi chuyến bay: Tôi không ở đất nước của mình. Tuy nhiên, cái sự bàng quan thì vẫn như vậy. Kết quả là đây" Tôi ngồi một mình ở sân bay quốc tế viết những dòng chữ này, vật vã chờ đợi tới 4 rưỡi sáng mai để có thể check-in cho chuyến bay lúc 7h45 để được về với Hà Nội yêu dấu của tôi. 
@@ -25,7 +26,7 @@ Tại sao lại thế? 
 
 Với cái thái độ dửng dưng với việc bay lượn và thường không tính trước về tiền vé thì tôi đã không chốt việc đi thi cùng với mọi người sớm, mà phải chờ cho tới rất lâu sau mới đưa ra quyết định. Để bào chữa lại cho tôi một chút thì một phần lý do cũng là bởi tôi cũng lo sẽ vướng mất lịch thi. Nếu mà đang ở Thái Lan đúng vào hôm thi vấn đáp thì có lẽ là tôi có khấn hết mấy trăm mấy ngàn cái chùa và các ông thần ở đất nước này cũng không cứu được, cho dù các ông thần này có to đến mấy đi chăng nữa. ![to như thế này cũng không cứu được (em không dám để lộ mặt các senpai ở cái bài viết ngớ ngẩn này, các anh xem tới cũng mong lượng thứ ạ](./tuong-to-o-thailand.jpg)*To như thế này cũng không cứu được (em không dám để lộ mặt các senpai ở cái bài viết ngớ ngẩn này, các anh chẳng may xem tới cũng mong lượng thứ cho em ạ)*
 
-Nhưng cuối cùng thì tôi cũng sắp xếp được, chỉ cần phải hoãn thi một một thi viết 2 tín chỉ (lúc tôi viết những dòng này ở sân bay thì môn này là "không khó lắm", nhưng sau đi thi bù thì toát hết cả mồ hôi, may mà có đồng đội thi lại cùng cứu vớt), và tất nhiên là cuối cùng thì tôi cũng mua vé máy bay, chỉ có điều chuyến bay khác với mọi người: Tới muộn hơn và về sớm hơn.
+Nhưng cuối cùng thì tôi cũng sắp xếp được, chỉ cần phải hoãn thi một môn thi viết 2 tín chỉ (lúc tôi viết những dòng này ở sân bay thì môn này là "không khó lắm", nhưng sau đi thi bù thì toát hết cả mồ hôi, may mà có đồng đội thi lại cùng cứu vớt), và tất nhiên là cuối cùng thì tôi cũng mua vé máy bay, chỉ có điều chuyến bay khác với mọi người: Tới muộn hơn và về sớm hơn.
 
 Do đây là lần đầu tiên ra nước ngoài, không thể nào tránh được sự bỡ ngỡ, công thêm với cái sự lười biếng chuẩn bị nên tôi đã phải nhận hậu quả ngay từ khi đi từ sân bay tới chỗ ở tại Thái Lan: Tôi đặt xe về nhầm địa chỉ. Bác lái xe cho tôi đã có linh cảm không lành khi mà đỗ trong mấy cái ngõ ngoằn ngoèo tối tăm chó sủa inh ỏi. Bác rất tốt bụng đứng chờ với tôi lâu. Khổ nỗi bác không nói được tiếng Anh và tôi cũng cứ cam đoan với bác là "oke rồi anh" nên là bác cũng đi về thôi. Cũng may là tôi bị lạc ra không xa lắm nên chỉ phải vác chục cân hành lý với quần áo trên lưng đi bộ mất 20 phút thôi. Mồ hôi nhễ nhại tí nhưng không nhằm nhò gì. 
 
@@ -33,7 +34,7 @@ Về kì thi của tôi thì một cách ngắn gọn là suôn sẻ. Tôi cũng
 
 Quay trở lại chuyện tôi ngồi đây viết bài giết thời gian. Do ở cùng nơi với mọi người nên cố nhiên việc ăn uống đi chơi xả hơi sau kỳ thi cũng là cùng nhau, cùng nhau cho tới khi bay về. Bởi vì chuyến bay của tôi khởi hành sớm hơn mọi người nên việc di chuyển của tôi cũng cần phải được bắt đầu sớm hơn, nhưng tôi thì lại vẫn theo lịch trình của mọi người. Đối với một chuyến bay quốc tế thì việc đến sớm hơn giờ bay một tiếng rưỡi của tôi cũng coi như là muộn.
 
-Đau đớn hơn ở chỗ, thường thì các các chuyến bay đều sẽ có "last call" cho những người sắp lỡ, và mọi thủ tục sẽ được đẩy nhanh cho họ. Có lẽ last call cho chuyến bay của tôi đã hết trước cả lúc tôi vào xếp hàng check in. 
+Đau đớn hơn ở chỗ, thường thì các chuyến bay đều sẽ có "last call" cho những người sắp lỡ, và mọi thủ tục sẽ được đẩy nhanh cho họ. Có lẽ last call cho chuyến bay của tôi đã hết trước cả lúc tôi vào xếp hàng check in. 
 
 ***
 

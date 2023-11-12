@@ -5,8 +5,7 @@ description: Một câu chuyện nho nhỏ về một lỗi lầm đáng trách
 tags:
   - blog
   - tôi
-  - du
-  - lịch
+  - du lịch
 ---
 2023-05-29
 

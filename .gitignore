@@ -68,3 +68,9 @@ node_modules/
 
 # Obsidian local files
 .obsidian
+
+# Misc
+.python-version
+
+# Hugo localhost files
+public
